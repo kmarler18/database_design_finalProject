@@ -10,7 +10,7 @@ The pantry needed help tracking metrics such as…
 
 While designing the database, I was able to practice many concepts I learned in the class including normalization, SQL, QBE, form creation, queries and reports. 
 
-My professor, <a href="[https://www.linkedin.com/in/pattysantoianni/](https://www.linkedin.com/in/patty-santoianni-249877279/)" target="_blank">Patty Santoianni,</a> was impressed with my work noting that most students didn't take on a real-world problem.
+My professor, <a href="https://www.linkedin.com/in/patty-santoianni-249877279/" target="_blank">Patty Santoianni,</a> was impressed with my work noting that most students didn't take on a real-world problem.
 
 It was a great experience gathering requirements and conducting a miniature SDLC while meeting with end-users such as <a href="https://www.linkedin.com/in/matt-massie-ph-d/" target="_blank">Dr. Matt Massie</a>.
 
